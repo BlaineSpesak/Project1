@@ -1,3 +1,22 @@
+/*#efe8e1*/
+/*#7c7c68*/
+/*515855*/
+/*#e5e3e0*/
+/*{background-color:#efe8e1;*/ 
+
+
+
 h1{ 
 	font-family: 'futura', cursive;
+}
+body:{
+	background:url("..img/gray_jean.png");
+a {
+	color:#515855;
+}
+.highlight{
+	background-color:#e7e6e6;
+}
+.contact-info{
+	list-style:none; margin:0;
 }
